@@ -1,4 +1,6 @@
 # fb-clone-website
-This is a Facebook clone. I made this for larning and practice porpuse.
+This is a Facebook clone. I made this for larning and practice purpose.
 <br>
 Author - N Abhishek Naik 
+<br>
+Hi everyone, This repo i ceated for my learning purpose. So anyone want learn with me then commit on repo.

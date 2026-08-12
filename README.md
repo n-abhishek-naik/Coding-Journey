@@ -1,4 +1,41 @@
-# fb-clone-website
-This is a Facebook clone. I made this for larning and practice purpose.
+# Coding Journey
+
+This repository contains my daily coding practice and learning journey.
+
+I use this repository to learn and practice:
+
+- C++
+- Data Structures & Algorithms (DSA)
+- Competitive Programming
+- Web Development
+- AI/ML
+
 <br>
-Hi everyone, This repo i ceated for my learning purpose. So anyone want learn with me then commit on repo.
+
+## Author
+
+**N Abhishek Naik**
+
+<br>
+
+## About
+
+Hi everyone,
+
+This repository is created for my learning and practice. Here, I regularly upload my coding exercises, DSA problems, web development projects, notes, and experiments.
+
+My goal is to improve my problem-solving skills, build real-world projects, contribute to open source, and grow as a software engineer.
+
+Thank you for visiting this repository.
+
+<br>
+
+## Philosophy
+
+**Learn → Practice → Build → Debug → Improve**
+
+<br>
+
+## Started
+
+**2026**
